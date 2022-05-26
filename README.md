@@ -1,2 +1,2 @@
-# backtrader_task_momo
+# Backtesting momentum strategy
 basic momentum back testing using backtrader
